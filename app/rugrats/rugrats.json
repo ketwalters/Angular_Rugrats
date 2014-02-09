@@ -1,0 +1,27 @@
+[
+    { "id": 1,
+      "name": "Tommy",
+      "bio": "The most bravest and adventurous baby",
+      "age": "1"
+      },
+    { "id": 2,
+      "name": "Chuckie",
+      "bio": "Tommy's loyal friend, Afraid of everything",
+      "age": "3"
+      },
+    { "id": 3,
+      "name": "Angelica",
+      "bio": "Always bosses the babies around",
+      "age": "6"
+      },
+    { "id": 4,  
+      "name": "Susie",
+      "bio": "Neighborhood tomboy",
+      "age": "6"
+      },
+    { "id": 5,
+      "name": "Dil",
+      "bio": "Tommy's younger brother",
+      "age": "3 months"}
+    
+  ]

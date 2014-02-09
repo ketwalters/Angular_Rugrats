@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html ng-app="rugratApp">
+  <head>
+    <title>Angular Rugrats!</title>
+    <script src="lib/angular/angular.min.js"></script>
+    <script src="js/controllers.js"></script>
+  </head>
+  <body ng-controller="RugratListCtrl">
+      <ul>
+        <li ng-repeat='rugrat in rugrats'>
+          <img ng-src="img/rugrats/{{rugrat.name}}.jpg"/>
+          <p>{{rugrat.name}}</p>
+          <p>{{rugrat.bio}}
+          <p>Age: {{rugrat.age}}</p>
+        </li>
+      </ul>
+  </body>
+</html>
