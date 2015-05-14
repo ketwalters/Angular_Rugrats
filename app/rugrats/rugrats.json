@@ -18,10 +18,6 @@
       "name": "Susie",
       "bio": "Neighborhood tomboy",
       "age": "6"
-      },
-    { "id": 5,
-      "name": "Dil",
-      "bio": "Tommy's younger brother",
-      "age": "3 months"}
+      }
     
   ]
