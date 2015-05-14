@@ -1,0 +1,33 @@
+body {
+  background-color: purple;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+#search, select {
+  width: 300px;
+  height: 25px;
+  color: black;
+  border: lightblue solid 2px;
+  margin: 70px 20px 20px 20px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+#search {
+  margin-left: 280px;
+}
+
+.rugrat {
+  margin: 75px;
+  list-style: none;
+  display: inline-block;
+}
+
+.rugrat-container {
+  margin: auto;
+  width: 50%;
+}
